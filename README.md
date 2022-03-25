@@ -2,7 +2,7 @@
 
 _Auteur : Landry Trebon_
 
-*v1.0*
+*v1.0 - Guide rédigé sur la version 10 d'Angular*
 
 L'objectif du document est d'expliquer aussi succinctement que possible les fondamentaux d'[Angular](https://angular.io/) pour être prêt à développer rapidement. J'aborde également des points de bonnes pratiques basés sur mon expérience personnelle.
 
